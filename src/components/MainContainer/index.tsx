@@ -30,6 +30,7 @@ const MainContainer = () => {
           <C.Task />
           <C.Task />
         </S.Content>
+        <C.BottomNav />
       </S.Contents>
       <S.VectorContainer>
         <Image
