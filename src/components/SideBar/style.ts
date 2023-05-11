@@ -5,6 +5,7 @@ export const SideContainer = styled.div`
   height: 100vh;
   position: absolute;
   left: 0;
+  top: 0;
   background-color: #f7f9fb;
   display: flex;
   flex-direction: column;
