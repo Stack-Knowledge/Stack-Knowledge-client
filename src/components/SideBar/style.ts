@@ -2,13 +2,15 @@ import styled from '@emotion/styled';
 
 export const SideContainer = styled.div`
   width: 240px;
-  height: 100vh;
+  height: 115vh;
   position: absolute;
   left: 0;
+  top: 0;
   background-color: #f7f9fb;
   display: flex;
   flex-direction: column;
   align-items: center;
+  z-index: 3;
 `;
 
 export const LogoContainer = styled.div`
