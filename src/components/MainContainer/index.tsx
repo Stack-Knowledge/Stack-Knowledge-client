@@ -7,6 +7,7 @@ import { css } from '@emotion/react';
 const MainContainer = () => {
   return (
     <S.MainContainer>
+      <C.AlertBox />
       <C.SideBar />
       <S.VectorContainer>
         <Image alt="" src={I.Vector} />

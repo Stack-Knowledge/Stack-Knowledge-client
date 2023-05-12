@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const SideContainer = styled.div`
   width: 240px;
-  height: 100vh;
+  height: 115vh;
   position: absolute;
   left: 0;
   top: 0;

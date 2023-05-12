@@ -6,6 +6,7 @@ export const TaskContainer = styled.div`
   background-color: #ff9a3e;
   border-radius: 10px 10px 0 0;
   padding: 8px 0 0 11px;
+  cursor: pointer;
 `;
 
 export const TextBox = styled.div`
