@@ -8,7 +8,7 @@ const SideBar = () => {
     <S.SideContainer>
       <S.LogoContainer>
         <S.Logo>
-          <Image alt="" src={I.LogoIcon} />
+          <I.LogoIcon color="white" />
         </S.Logo>
         <S.Title>Stack Kowwlege</S.Title>
       </S.LogoContainer>
