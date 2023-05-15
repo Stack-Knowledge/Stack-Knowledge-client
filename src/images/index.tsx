@@ -6,3 +6,4 @@ export { default as Rock } from './Rock.svg';
 export { default as UnRock } from './UnRock.svg';
 export { default as Vector } from './Vector.svg';
 export { default as Vector2 } from './Vector2.svg';
+export { default as Gauth } from './Gauth.svg';
