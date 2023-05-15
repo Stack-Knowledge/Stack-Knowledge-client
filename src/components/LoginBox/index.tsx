@@ -6,7 +6,7 @@ const LoginBox = () => {
   return (
     <S.Container>
       <S.LogoBox>
-        <I.LogoIcon color="black" />
+        <I.LogoIcon size={false} color="black" />
       </S.LogoBox>
       <S.Title>Stack Kowwlege</S.Title>
       <S.LoginBox>

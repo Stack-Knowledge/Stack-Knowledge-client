@@ -1,8 +1,8 @@
-const LogoIcon = ({ color }: { color: string }) => {
+const LogoIcon = ({ color, size }: { color: string; size: boolean }) => {
   return (
     <svg
-      width="50"
-      height="48.57"
+      width={size ? '25px' : '50px'}
+      height={size ? '25px' : '48.57px'}
       viewBox="0 0 25 25"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
