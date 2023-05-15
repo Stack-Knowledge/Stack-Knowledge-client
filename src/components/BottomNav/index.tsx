@@ -1,3 +1,4 @@
+'use client';
 import * as S from './style';
 import { css } from '@emotion/react';
 import Image from 'next/image';
