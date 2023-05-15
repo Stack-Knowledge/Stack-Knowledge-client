@@ -6,6 +6,7 @@ export const Timer = styled.div`
   background: #ffffff;
   border: 6px solid #ff9a3e;
   border-radius: 90px;
+  margin-top: 131px;
 `;
 
 export const InputBox = styled.div`
