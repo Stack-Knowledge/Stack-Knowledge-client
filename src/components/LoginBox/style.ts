@@ -35,9 +35,6 @@ export const LoginBox = styled.div`
   padding: 0 92px 0 20px;
   margin-top: 211px;
   cursor: pointer;
-`;
-
-export const Text = styled.p`
   font-weight: 500;
   font-size: 20px;
   line-height: 23px;
