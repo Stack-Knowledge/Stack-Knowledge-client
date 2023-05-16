@@ -6,7 +6,7 @@ const Task = () => {
   return (
     <div>
       <S.TaskContainer>
-        <Image src={I.Rock} alt="" />
+        <Image src={I.Rock} alt="Rocked" />
         <S.TextBox>
           <S.Teacher>미소쌤</S.Teacher>
           <S.Title>[법흥왕에 대해서]</S.Title>

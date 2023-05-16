@@ -1,10 +1,6 @@
 'use client';
-import * as C from 'components';
+import * as P from 'pages';
 
 export default function Home() {
-  return (
-    <main>
-      <C.MainContainer />
-    </main>
-  );
+  return <P.MainPage />;
 }

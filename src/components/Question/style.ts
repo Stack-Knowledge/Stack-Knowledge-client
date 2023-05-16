@@ -45,4 +45,6 @@ export const SubmitBTN = styled.div`
   position: relative;
   left: 789px;
   bottom: 60px;
+
+  cursor: pointer;
 `;

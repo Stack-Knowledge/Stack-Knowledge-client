@@ -4,7 +4,7 @@ import * as I from 'images';
 import Image from 'next/image';
 import { css } from '@emotion/react';
 
-const MainContainer = () => {
+const MainPage = () => {
   return (
     <S.MainContainer>
       <C.AlertBox />
@@ -46,4 +46,4 @@ const MainContainer = () => {
   );
 };
 
-export default MainContainer;
+export default MainPage;

@@ -1,9 +1,8 @@
-'use client';
 import { Timer } from 'components';
 import * as C from 'components';
 import { Text, Container } from './style';
 
-const Task = () => {
+const TaskPage = () => {
   return (
     <Container>
       <C.SideBar />
@@ -13,4 +12,4 @@ const Task = () => {
     </Container>
   );
 };
-export default Task;
+export default TaskPage;

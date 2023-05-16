@@ -1,4 +1,5 @@
 'use client';
+'use client';
 import { LoginBox } from 'components';
 
 const Login = () => {
