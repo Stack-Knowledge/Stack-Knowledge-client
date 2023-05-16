@@ -51,6 +51,11 @@ export const Opctions = styled.div`
   justify-content: space-between;
 `;
 
+export const OpctionWrap = styled.div`
+  width: 240px;
+  padding-left: 74px;
+`;
+
 export const Opction = styled.div`
   width: 84px;
   height: 30px;

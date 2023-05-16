@@ -13,22 +13,28 @@ const SideBar = () => {
         <S.Title>Stack Kowwlege</S.Title>
       </S.LogoContainer>
       <S.Opctions>
-        <S.Opction
-          css={css`
-            width: 67px;
-          `}
-        >
-          <Image alt="" src={I.HomeIcon} />
-          <S.OpctionText>홈</S.OpctionText>
-        </S.Opction>
-        <S.Opction>
-          <Image alt="" src={I.CoinIcon} />
-          <S.OpctionText>상점</S.OpctionText>
-        </S.Opction>
-        <S.Opction>
-          <Image alt="" src={I.RankIcon} />
-          <S.OpctionText>랭킹</S.OpctionText>
-        </S.Opction>
+        <S.OpctionWrap>
+          <S.Opction
+            css={css`
+              width: 67px;
+            `}
+          >
+            <Image alt="" src={I.HomeIcon} />
+            <S.OpctionText>홈</S.OpctionText>
+          </S.Opction>
+        </S.OpctionWrap>
+        <S.OpctionWrap>
+          <S.Opction>
+            <Image alt="" src={I.CoinIcon} />
+            <S.OpctionText>상점</S.OpctionText>
+          </S.Opction>
+        </S.OpctionWrap>
+        <S.OpctionWrap>
+          <S.Opction>
+            <Image alt="" src={I.RankIcon} />
+            <S.OpctionText>랭킹</S.OpctionText>
+          </S.Opction>
+        </S.OpctionWrap>
       </S.Opctions>
     </S.SideContainer>
   );
