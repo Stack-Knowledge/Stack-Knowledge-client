@@ -24,6 +24,8 @@ export const DolIcon = styled.div`
   font-weight: 500;
   font-size: 18px;
   line-height: 21px;
+
+  margin-right: 19.4px;
 `;
 
 export const TextBox = styled.div`
@@ -65,6 +67,7 @@ export const Left = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 `;
 
 export const Center = styled.div`
@@ -72,7 +75,7 @@ export const Center = styled.div`
   height: 20px;
   left: 267px;
   top: 10px;
-  background: #ffffff;
+  background: #e7e7e7;
   border: 1px solid #ff9a3e;
   display: flex;
   align-items: center;
@@ -88,4 +91,5 @@ export const Right = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 `;
