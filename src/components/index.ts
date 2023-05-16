@@ -6,3 +6,4 @@ export { default as AlertBox } from './AlertBox';
 export { default as LoginBox } from './LoginBox';
 export { default as Timer } from './Timer';
 export { default as Question } from './Question';
+export { default as ItemBox } from './ItemBox';
