@@ -2,10 +2,13 @@ import styled from '@emotion/styled';
 
 export const ItemBox = styled.div`
   width: 314px;
-  height: 39px;
+  height: 69px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-bottom: 30px;
+
+  border-bottom: #d9d9d9 solid 1px;
 `;
 export const FlexBox = styled.div`
   display: flex;
