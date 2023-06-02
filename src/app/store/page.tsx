@@ -1,5 +1,5 @@
 'use client';
-import { StorePage } from 'pages';
+import { StorePage } from 'pageContainer';
 
 const Store = () => {
   return <StorePage />;
