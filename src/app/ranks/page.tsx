@@ -7,7 +7,7 @@ const Rank = () => {
     <Container>
       <RankProfile />
       <Ranks />
-      <BottomNav />
+      <BottomNav top={'100'} />
     </Container>
   );
 };

@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Vector2 } from 'images';
 import { useState } from 'react';
 
-const BottomNav = () => {
+const BottomNav = ({ top }: { top: string }) => {
   const [selected, setSelected] = useState<boolean[]>([
     true,
     false,
@@ -14,7 +14,11 @@ const BottomNav = () => {
     false,
   ]);
   return (
-    <S.NavContainer>
+    <S.NavContainer
+      css={css`
+        padding-top: ${top + 'px'} 0 62px;
+      `}
+    >
       <Image src={Vector2} alt="" />
       <S.Selected selected={selected[0]}>
         <S.Num>1</S.Num>

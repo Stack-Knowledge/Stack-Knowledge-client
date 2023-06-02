@@ -7,7 +7,6 @@ export const NavContainer = styled.div`
   justify-content: space-between;
   align-items: center;
   margin: auto;
-  padding: 192px 0 62px;
 `;
 
 export const Selected = styled.div`

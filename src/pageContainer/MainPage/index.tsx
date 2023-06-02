@@ -31,7 +31,7 @@ const MainPage = () => {
           <C.Task />
           <C.Task />
         </S.Content>
-        <C.BottomNav />
+        <C.BottomNav top={'192'} />
       </S.Contents>
       <S.VectorContainer>
         <Image
