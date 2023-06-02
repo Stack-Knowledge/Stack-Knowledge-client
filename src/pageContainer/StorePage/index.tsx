@@ -14,6 +14,14 @@ const StorePage = () => {
         <ItemBox></ItemBox>
         <ItemBox></ItemBox>
       </S.Items>
+      <S.SubmitBox>
+        <S.MilidgeText>남은 마일리지: 10,000 M</S.MilidgeText>
+        <S.SubmitBtN>
+          <S.BTNText>외출권</S.BTNText>
+          <S.Submit>교환하기</S.Submit>
+          <S.BTNText>3,000 M</S.BTNText>
+        </S.SubmitBtN>
+      </S.SubmitBox>
     </S.Container>
   );
 };

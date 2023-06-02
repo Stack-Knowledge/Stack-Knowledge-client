@@ -30,3 +30,43 @@ export const Items = styled.div`
   margin-top: 135px;
   gap: 30px 100px;
 `;
+
+export const SubmitBox = styled.div`
+  width: 314px;
+  height: 90px;
+  margin-top: 143px;
+`;
+
+export const MilidgeText = styled.p`
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-left: 171px;
+`;
+
+export const SubmitBtN = styled.div`
+  width: 314px;
+  height: 60px;
+  background: #ff9a3e;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  justify-content: space-between;
+  margin-top: 13px;
+`;
+
+export const BTNText = styled.p`
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+`;
+
+export const Submit = styled.p`
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+`;
