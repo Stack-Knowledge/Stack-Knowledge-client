@@ -6,6 +6,7 @@ export const ProfileContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 143px;
 `;
 
 export const ImgContainer = styled.div`
@@ -17,6 +18,7 @@ export const ImgContainer = styled.div`
   img {
     object-fit: cover;
   }
+  margin-bottom: 45px;
 `;
 
 export const Slice = styled.div`

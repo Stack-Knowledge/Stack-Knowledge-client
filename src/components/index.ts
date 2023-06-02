@@ -8,3 +8,4 @@ export { default as Timer } from './Timer';
 export { default as Question } from './Question';
 export { default as ItemBox } from './ItemBox';
 export { default as RankProfile } from './RankProfile';
+export { default as Ranks } from './Ranks';

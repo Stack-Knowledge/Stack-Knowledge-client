@@ -1,11 +1,12 @@
 'use client';
-import { BottomNav, RankProfile } from 'components';
+import { BottomNav, RankProfile, Ranks } from 'components';
 import styled from '@emotion/styled';
 
 const Rank = () => {
   return (
     <Container>
       <RankProfile />
+      <Ranks />
       <BottomNav />
     </Container>
   );
