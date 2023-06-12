@@ -11,3 +11,4 @@ export { default as RankProfile } from './RankProfile';
 export { default as Ranks } from './Ranks';
 export { default as AdminSideBar } from './AdminSideBar';
 export { default as TaskOX } from './TaskOX';
+export { default as MarkCom } from './Mark';

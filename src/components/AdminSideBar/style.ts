@@ -15,7 +15,7 @@ export const SideContainer = styled.div`
 export const LogoContainer = styled.div`
   width: 240px;
   height: 40px;
-  margin-top: 130px;
+  margin-top: 40px;
   padding: 0 22px 0 15px;
   display: flex;
   align-items: center;
