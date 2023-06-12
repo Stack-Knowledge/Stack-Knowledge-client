@@ -9,4 +9,5 @@ export { default as Question } from './Question';
 export { default as ItemBox } from './ItemBox';
 export { default as RankProfile } from './RankProfile';
 export { default as Ranks } from './Ranks';
+export { default as AdminSideBar } from './AdminSideBar';
 export { default as TaskOX } from './TaskOX';
