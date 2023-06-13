@@ -9,3 +9,5 @@ export { default as Vector2 } from './Vector2.svg';
 export { default as Gauth } from './Gauth.svg';
 export { default as OIcon } from './OIcon.svg';
 export { default as XIcon } from './XIcon.svg';
+export { default as MarkIcon } from './MarkIcon.svg';
+export { default as CreateIcon } from './CreateIcon.svg';

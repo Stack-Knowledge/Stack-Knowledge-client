@@ -1,5 +1,4 @@
 export { default as SideBar } from './SideBar';
-import { LoginBox } from './LoginBox/style';
 export { default as Task } from './Task';
 export { default as BottomNav } from './BottomNav';
 export { default as AlertBox } from './AlertBox';
@@ -12,3 +11,5 @@ export { default as Ranks } from './Ranks';
 export { default as AdminSideBar } from './AdminSideBar';
 export { default as TaskOX } from './TaskOX';
 export { default as MarkCom } from './Mark';
+export { default as MarkBox } from './MarkBox';
+export { default as CreateBox } from './CreateBox';
