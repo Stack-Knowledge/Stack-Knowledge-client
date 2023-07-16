@@ -1,0 +1,15 @@
+export { default as SideBar } from './SideBar';
+export { default as Task } from './Task';
+export { default as BottomNav } from './BottomNav';
+export { default as AlertBox } from './AlertBox';
+export { default as LoginBox } from './LoginBox';
+export { default as Timer } from './Timer';
+export { default as Question } from './Question';
+export { default as ItemBox } from './ItemBox';
+export { default as RankProfile } from './RankProfile';
+export { default as Ranks } from './Ranks';
+export { default as AdminSideBar } from './AdminSideBar';
+export { default as TaskOX } from './TaskOX';
+export { default as MarkCom } from './Mark';
+export { default as MarkBox } from './MarkBox';
+export { default as CreateBox } from './CreateBox';
